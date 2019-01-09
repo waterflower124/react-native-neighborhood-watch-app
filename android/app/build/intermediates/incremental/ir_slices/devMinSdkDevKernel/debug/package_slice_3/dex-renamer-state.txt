@@ -1,0 +1,4 @@
+#Mon Dec 17 00:33:48 CST 2018
+base.0=/Volumes/VirtualMachine/Project/2018.9.12_Sweden/neighborhood/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

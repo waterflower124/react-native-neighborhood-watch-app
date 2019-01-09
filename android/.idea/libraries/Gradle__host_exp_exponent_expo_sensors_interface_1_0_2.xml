@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: host.exp.exponent:expo-sensors-interface-1.0.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-sensors-interface-1.0.2.aar/dc311a97ea1f8261ec0271426d5bab12/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-sensors-interface-1.0.2.aar/dc311a97ea1f8261ec0271426d5bab12/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/expokit/maven/host/exp/exponent/expo-sensors-interface/1.0.2/expo-sensors-interface-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Dec 13 18:19:28 CST 2018
+1.base=/Volumes/VirtualMachine/Project/2018.9.12_Sweden/neighborhood/android/app/build/intermediates/assets/devMinSdkDevKernel/debug
+2.path=kernel.android.bundle
+0.baseType=DIRECTORY
+2.base=/Volumes/VirtualMachine/Project/2018.9.12_Sweden/neighborhood/android/app/build/intermediates/assets/devMinSdkDevKernel/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=fonts/EmojiOne.ttf
+0.set=ASSET
+0.base=/Volumes/VirtualMachine/Project/2018.9.12_Sweden/neighborhood/android/app/build/intermediates/assets/devMinSdkDevKernel/debug
+2.baseType=DIRECTORY
+1.path=kernel-manifest.json

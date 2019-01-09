@@ -1,0 +1,13 @@
+#Mon Dec 17 00:33:47 CST 2018
+path.3=classes4.dex
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/Volumes/VirtualMachine/Project/2018.9.12_Sweden/neighborhood/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/10
+base.2=/Volumes/VirtualMachine/Project/2018.9.12_Sweden/neighborhood/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/10
+base.1=/Volumes/VirtualMachine/Project/2018.9.12_Sweden/neighborhood/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/10
+base.0=/Volumes/VirtualMachine/Project/2018.9.12_Sweden/neighborhood/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/10
